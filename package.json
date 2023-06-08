@@ -1,0 +1,20 @@
+{
+  "name": "kwacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwax17/kwacks.git"
+  },
+  "author": "kwax17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwax17/kwacks/issues"
+  },
+  "homepage": "https://github.com/kwax17/kwacks#readme"
+}
